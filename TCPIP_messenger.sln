@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIP_messenger", "TCPIP_messenger\TCPIP_messenger.csproj", "{CC6546B2-7D3E-46B0-80C6-D5BFC10A753C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Messenger", "Client_Messenger\Client_Messenger.csproj", "{2688BF22-85F1-41C7-B2A4-E55CB8DDCA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6546B2-7D3E-46B0-80C6-D5BFC10A753C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6546B2-7D3E-46B0-80C6-D5BFC10A753C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6546B2-7D3E-46B0-80C6-D5BFC10A753C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6546B2-7D3E-46B0-80C6-D5BFC10A753C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2688BF22-85F1-41C7-B2A4-E55CB8DDCA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2688BF22-85F1-41C7-B2A4-E55CB8DDCA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2688BF22-85F1-41C7-B2A4-E55CB8DDCA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2688BF22-85F1-41C7-B2A4-E55CB8DDCA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
