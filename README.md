@@ -1,2 +1,2 @@
-# Chat_app_for_PC_5
+# Chat_Application_for_PC_5
 Variant 5
